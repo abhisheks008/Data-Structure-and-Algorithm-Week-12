@@ -14,10 +14,7 @@ Here's the solution for Data Structure and Algo lab for Week 12
 
 - [x] C++
 
-- [ ] Java
-- [ ] Ruby
-- [ ] Kotlin
-
-### _Doc file to be uploaded later_
-
 # abhisheks008
+
+[![forthebadge made-with-cpp](http://ForTheBadge.com/images/badges/made-with-c.svg)](https://www.python.org/)
+[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
